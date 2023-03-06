@@ -13,7 +13,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@nomiclabs/buidler": "1.4.7",
+    "@nomiclabs/buidler": "1.999.0",
     "@openzeppelin/contracts": "4.7.3",
     "@openzeppelin/test-environment": "0.1.9",
     "@openzeppelin/test-helpers": "0.5.5",
