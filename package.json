@@ -16,7 +16,7 @@
     "@nomiclabs/buidler": "1.4.7",
     "@openzeppelin/contracts": "4.7.3",
     "@openzeppelin/test-environment": "0.1.9",
-    "@openzeppelin/test-helpers": "0.5.5",
+    "@openzeppelin/test-helpers": "0.5.16",
     "mocha": "10.1.0"
   }
 }
